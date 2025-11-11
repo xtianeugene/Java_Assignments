@@ -23,6 +23,6 @@ public class vacation_package {
 
         //Output
         double totalCost = calculateTotalCost(accomodationCost, mealCost, activityCost);
-        System.out.println("Total vacation Cost: " + totalCost);
+        System.out.println("Total vacation Cost: $" + totalCost);
 
     }}
