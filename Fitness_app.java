@@ -27,5 +27,6 @@ else {
         System.out.println("Your fitness level: "+ totalsteps);
 
         sc.close();
+        
     }
 }
