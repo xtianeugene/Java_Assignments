@@ -1,4 +1,4 @@
-public class Simple3DSales {
+public class 3DArraySales {
     public static void main(String[] args) {
         int[][][] sales = {
                 {{10, 20, 30}, {15, 25, 35}},
